@@ -8,7 +8,7 @@ This software has been specifically developed to employ object detection and tra
 - Collects all scoring shot clips and combines them seamlessly into the final output video.
 
 ### GUI
-[![ScreenShot](./image/screenshot.png)]
+![ScreenShot](./image/screenshot.png)
 
 ### Options
 - Support to add background music and it will loop over the output video. 
@@ -16,7 +16,7 @@ This software has been specifically developed to employ object detection and tra
 - Provide arguments to set the start poistion and duration of input video for processing.
 
 ### Demo Output
-[![Demo Output](./image/demo_output.gif)]
+![Demo Output](./image/demo_output.gif)
 
 ### Notes
 - After you click on the **start** button on the UI, you may need to wait for a while(**~1 minute**) for the software to decompress and initiate, and then you will see some progress in the processing.
